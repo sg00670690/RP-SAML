@@ -1,0 +1,12 @@
+172.17.0.1 - - [20/Jul/2021:04:09:28 +0000] "GET /php-shib-protected HTTP/1.1" 200 1190
+172.17.0.1 - - [20/Jul/2021:04:09:32 +0000] "GET /php-shib-protected HTTP/1.1" 200 1190
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET / HTTP/1.1" 403 4897
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET /noindex/css/bootstrap.min.css HTTP/1.1" 200 19341
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET /noindex/css/open-sans.css HTTP/1.1" 200 5081
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET /images/apache_pb.gif HTTP/1.1" 200 2326
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET /images/poweredby.png HTTP/1.1" 200 3956
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET /noindex/css/fonts/Bold/OpenSans-Bold.woff HTTP/1.1" 404 239
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET /noindex/css/fonts/Light/OpenSans-Light.woff HTTP/1.1" 404 241
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET /noindex/css/fonts/Bold/OpenSans-Bold.ttf HTTP/1.1" 404 238
+172.17.0.1 - - [20/Jul/2021:04:09:51 +0000] "GET /noindex/css/fonts/Light/OpenSans-Light.ttf HTTP/1.1" 404 240
+172.17.0.1 - - [20/Jul/2021:04:10:03 +0000] "GET /php-shib-protected HTTP/1.1" 200 1159
