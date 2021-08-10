@@ -1,0 +1,32 @@
+httpd-error [Sun Jul 18 12:53:01.498301 2021] [ssl:info] [pid 1:tid AH02200: Loading certificate & private key of SSL-aware server 'samlpocrp23:443'
+httpd-error [Sun Jul 18 12:53:01.498766 2021] [ssl:debug] [pid 1:tid ssl_engine_pphrase.c(506): AH02249: unencrypted RSA private key - pass phrase not required
+httpd-error [Sun Jul 18 12:53:01.503019 2021] [ssl:info] [pid 1:tid AH01914: Configuring server samlpocrp23:443 for SSL protocol
+httpd-error [Sun Jul 18 12:53:01.503234 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(406): AH01893: Configuring TLS extension handling
+httpd-error [Sun Jul 18 12:53:01.503245 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(933): AH02232: Configuring RSA server certificate
+httpd-error [Sun Jul 18 12:53:01.503308 2021] [ssl:warn] [pid 1:tid AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+httpd-error [Sun Jul 18 12:53:01.503343 2021] [ssl:debug] [pid 1:tid ssl_util_ssl.c(508): AH02412: [samlpocrp23:443] Cert matches for name 'samlpocrp23' [subject: CN=samlpocrp23,OU=IS,O=Tel,L=CH,ST=TN,C=IN / issuer: CN=samlpocrp23,OU=IS,O=Tel,L=CH,ST=TN,C=IN / serial: 6BC246AEE22E6B8410ED9704618AAEECAD693158 / notbefore: Jun 24 03:55:32 2021 GMT / notafter: Jun 24 03:55:32 2022 GMT]
+httpd-error [Sun Jul 18 12:53:01.503349 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(988): AH02236: Configuring RSA server private key
+httpd-error [Sun Jul 18 12:53:01.530034 2021] [ssl:info] [pid 1:tid AH02200: Loading certificate & private key of SSL-aware server 'samlpocrp23:443'
+httpd-error [Sun Jul 18 12:53:01.530221 2021] [ssl:debug] [pid 1:tid ssl_engine_pphrase.c(506): AH02249: unencrypted RSA private key - pass phrase not required
+httpd-error [Sun Jul 18 12:53:01.533314 2021] [ssl:info] [pid 1:tid AH01914: Configuring server samlpocrp23:443 for SSL protocol
+httpd-error [Sun Jul 18 12:53:01.533427 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(406): AH01893: Configuring TLS extension handling
+httpd-error [Sun Jul 18 12:53:01.533431 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(933): AH02232: Configuring RSA server certificate
+httpd-error [Sun Jul 18 12:53:01.533464 2021] [ssl:warn] [pid 1:tid AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+httpd-error [Sun Jul 18 12:53:01.533479 2021] [ssl:debug] [pid 1:tid ssl_util_ssl.c(508): AH02412: [samlpocrp23:443] Cert matches for name 'samlpocrp23' [subject: CN=samlpocrp23,OU=IS,O=Tel,L=CH,ST=TN,C=IN / issuer: CN=samlpocrp23,OU=IS,O=Tel,L=CH,ST=TN,C=IN / serial: 6BC246AEE22E6B8410ED9704618AAEECAD693158 / notbefore: Jun 24 03:55:32 2021 GMT / notafter: Jun 24 03:55:32 2022 GMT]
+httpd-error [Sun Jul 18 12:53:01.533482 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(988): AH02236: Configuring RSA server private key
+httpd-error [Tue Jul 20 04:09:23.331518 2021] [ssl:info] [pid 1:tid AH02200: Loading certificate & private key of SSL-aware server 'samlpocrp23:443'
+httpd-error [Tue Jul 20 04:09:23.333727 2021] [ssl:debug] [pid 1:tid ssl_engine_pphrase.c(506): AH02249: unencrypted RSA private key - pass phrase not required
+httpd-error [Tue Jul 20 04:09:23.341289 2021] [ssl:info] [pid 1:tid AH01914: Configuring server samlpocrp23:443 for SSL protocol
+httpd-error [Tue Jul 20 04:09:23.341641 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(406): AH01893: Configuring TLS extension handling
+httpd-error [Tue Jul 20 04:09:23.341668 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(933): AH02232: Configuring RSA server certificate
+httpd-error [Tue Jul 20 04:09:23.341756 2021] [ssl:warn] [pid 1:tid AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+httpd-error [Tue Jul 20 04:09:23.341803 2021] [ssl:debug] [pid 1:tid ssl_util_ssl.c(508): AH02412: [samlpocrp23:443] Cert matches for name 'samlpocrp23' [subject: CN=samlpocrp23,OU=IS,O=Tel,L=CH,ST=TN,C=IN / issuer: CN=samlpocrp23,OU=IS,O=Tel,L=CH,ST=TN,C=IN / serial: 6BC246AEE22E6B8410ED9704618AAEECAD693158 / notbefore: Jun 24 03:55:32 2021 GMT / notafter: Jun 24 03:55:32 2022 GMT]
+httpd-error [Tue Jul 20 04:09:23.341812 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(988): AH02236: Configuring RSA server private key
+httpd-error [Tue Jul 20 04:09:23.399296 2021] [ssl:info] [pid 1:tid AH02200: Loading certificate & private key of SSL-aware server 'samlpocrp23:443'
+httpd-error [Tue Jul 20 04:09:23.399556 2021] [ssl:debug] [pid 1:tid ssl_engine_pphrase.c(506): AH02249: unencrypted RSA private key - pass phrase not required
+httpd-error [Tue Jul 20 04:09:23.403632 2021] [ssl:info] [pid 1:tid AH01914: Configuring server samlpocrp23:443 for SSL protocol
+httpd-error [Tue Jul 20 04:09:23.403765 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(406): AH01893: Configuring TLS extension handling
+httpd-error [Tue Jul 20 04:09:23.403770 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(933): AH02232: Configuring RSA server certificate
+httpd-error [Tue Jul 20 04:09:23.403809 2021] [ssl:warn] [pid 1:tid AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+httpd-error [Tue Jul 20 04:09:23.403828 2021] [ssl:debug] [pid 1:tid ssl_util_ssl.c(508): AH02412: [samlpocrp23:443] Cert matches for name 'samlpocrp23' [subject: CN=samlpocrp23,OU=IS,O=Tel,L=CH,ST=TN,C=IN / issuer: CN=samlpocrp23,OU=IS,O=Tel,L=CH,ST=TN,C=IN / serial: 6BC246AEE22E6B8410ED9704618AAEECAD693158 / notbefore: Jun 24 03:55:32 2021 GMT / notafter: Jun 24 03:55:32 2022 GMT]
+httpd-error [Tue Jul 20 04:09:23.403832 2021] [ssl:debug] [pid 1:tid ssl_engine_init.c(988): AH02236: Configuring RSA server private key
